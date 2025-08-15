@@ -6,7 +6,7 @@ env:
   API_HOST: us-east-a.apiconnect.automation.ibm.com
   PLATFORM_API_PREFIX: platform-api
   PROVIDER_ORG: api-connect-os-0
-  API_FILES: APIfolder/api-with-examples.yaml
+  API_FILES: APIfolder/ibm-sample-order-api_2.0.0.yaml
 
 jobs:
   run-discovery:
